@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=MINJEE%20SON&fontAlignY=50&fontSize=100&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,5,15&&height=250&section=header&text=MINJEE%20SON&fontAlignY=50&fontSize=100&animation=twinkling)
 
 ### 🐣 Frontend Developer 🐣
 ```
