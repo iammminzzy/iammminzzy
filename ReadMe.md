@@ -38,7 +38,7 @@ I like to develop many beautiful things in the world ✨
 
  <a href="https://velog.io/@iamminzzy"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@iamminzzy"/></a>&nbsp;
  <a href="https://www.instagram.com/m.minzzy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/m.minzzy/"/></a>&nbsp;
- <a href="mailto:minjee4281@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=minjee4281@gmail.com"/></a>
+ <a href="mailto:minjeeson.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=minjeeson.dev@gmail.com"/></a>
 
 <br>
 
