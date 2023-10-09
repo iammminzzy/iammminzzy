@@ -42,9 +42,5 @@ I like to develop many beautiful things in the world ✨
 
 <br>
 
-### 👩🏻‍💻 My Github 👩🏻‍💻
-
-![github stats](https://github-readme-stats.vercel.app/api?username=iammminzzy&theme=buefy&show_icons=true)<br>
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=e2e4e3&height=130)
 </div>
