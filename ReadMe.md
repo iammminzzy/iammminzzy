@@ -4,8 +4,8 @@
 
 ### 🐣 Frontend Developer 🐣
 ```
-Hi, There !
-Welcome to my Github✨
+Hi there!
+Welcome to my GitHub✨
 ```
 
 <br>
